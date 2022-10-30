@@ -17,11 +17,11 @@ player can create their own story by the answer that their choose.
 
 # File
 
-1.img__________(source + header file)
+1.img____________(Resource files)
 
-2.sound__________(source + header file)
+2.sound__________(Resource files)
 
-3.java_________(Project file)
+3.java____________(Project file)
 
     contain - Game.java
             - MainApplication.java
